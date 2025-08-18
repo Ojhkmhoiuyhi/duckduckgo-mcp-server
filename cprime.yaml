@@ -1,0 +1,16 @@
+config_schema:
+  type: object
+  required: []
+  properties: {}
+
+server_name: duckduckgo-mcp-server
+command: uvx
+args:
+  - duckduckgo-mcp-server
+env: []
+
+description: Testing.
+owner: Cprime
+license: Apache-2.0
+package: duckduckgo-mcp-server
+vendor: Cprime
